@@ -1,2 +1,3 @@
 This is second file to merge
 This is changes from local source
+This is conflicting line
